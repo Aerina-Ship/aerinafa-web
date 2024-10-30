@@ -1,0 +1,10 @@
+{
+  "short_name": "Aerina",
+  "name": "Aerina Valentine's Day",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
